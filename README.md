@@ -31,3 +31,7 @@ Ability to build real-time, interactive React apps
 Experience with semantic search, GPT integration, and async dev workflows
 
 Initiative to streamline hiring processes using modern AI tools
+
+## 👀 Live Preview  
+👉 [Try the App on CodeSandbox](https://codesandbox.io/p/sandbox/kjnlyp?file=%2Fsrc%2FApp.js%3A1%2C1-335%2C1)
+
