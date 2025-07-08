@@ -33,5 +33,6 @@ Experience with semantic search, GPT integration, and async dev workflows
 Initiative to streamline hiring processes using modern AI tools
 
 ## 👀 Live Preview  
-👉 [Try the App on CodeSandbox](https://codesandbox.io/p/sandbox/kjnlyp?file=%2Fsrc%2FApp.js%3A1%2C1-335%2C1)
+[![Open in CodeSandbox](https://img.shields.io/badge/Open%20in-CodeSandbox-blue?logo=codesandbox)](https://codesandbox.io/p/sandbox/kjnlyp?file=%2Fsrc%2FApp.js%3A1%2C1-335%2C1)
+
 
