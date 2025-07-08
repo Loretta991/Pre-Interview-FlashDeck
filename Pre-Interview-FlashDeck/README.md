@@ -1,26 +1,36 @@
 
-# 🎯 Pre-Interview FlashDeck
+# 🎯 Pre-Interview FlashDeck  
+**AI-Driven Interview Showcase + Live Employer Input**
 
-**Rapid AI Interview Prep + Live Demo App**
+This interactive app helps candidates like Elle prepare for technical interviews using real job requirements. Employers can submit custom questions and key expectations — and preview tailored responses before the interview.
 
-This app lets candidates demonstrate GPT-based skills and RAG workflows via screen-shared Q&A — tailored for each employer.
+---
 
-## 👀 Live Preview
-
+## 👀 Live Preview  
 Coming soon: GitHub Pages / CodeSandbox Link
 
-## 🧪 Try It as a Hiring Manager
+---
 
-Paste your job description into `/public/preview-questions.json` to customize the FlashDeck Q&A.
+## 🧪 Try It as a Hiring Manager  
 
-## 🗂 Repo Structure
+- Enter your **Company Name** and **Job Title**
+- List **5 critical job expectations** for this role  
+- Provide **3 questions you plan to ask Elle**
+- Select **3 follow-up questions** you want Elle to ask you during the interview
 
-- `/src/App.js`: React Q&A app
-- `/public/preview-questions.json`: Employer preview input
-- `README.md`: Overview + instructions
+You’ll immediately see a smart, structured Q&A deck based on your inputs — no account required.
 
-## 🔧 Built With
+---
 
-- React + useState
-- JSON-fed Q&A engine
-- GPT/RAG prompt examples
+## 🗂 Repo Structure  
+- `/src/App.js`: Full React Q&A App with employer input + response generator  
+- `/public/preview-questions.json`: Optional external input file  
+- `README.md`: This file  
+
+---
+
+## 🔧 Built With  
+- React + useState  
+- Dynamic JSON-fed Q&A builder  
+- GPT-inspired logic for job-specific prep  
+- Employer-centered question routing  
