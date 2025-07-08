@@ -1,1 +1,12 @@
-['How does your team apply retrieval-augmented generation (RAG) in real-world projects?', 'Do engineers have flexibility to prototype with tools like FAISS or Pinecone?', 'How integrated are GPT tools with your core business systems?', 'What does success look like for this AI role in the first 90 days?']
+[
+  "How does your team currently apply retrieval-augmented generation (RAG) in real-world projects?",
+  "Do engineers here have flexibility to prototype with new vector databases like FAISS or Pinecone?",
+  "What kinds of LLM use cases are driving the most value for your clients right now?",
+  "How integrated are GPT-based tools with your clients’ existing business systems?",
+  "How do developers typically collaborate across teams — is Slack your main async tool?",
+  "What’s your process for knowledge sharing, especially with AI workflows evolving so quickly?",
+  "How do new engineers ramp up on your codebase and AI stack?",
+  "What does success look like for this AI Engineer role in the first 60 to 90 days?",
+  "Are there upcoming client projects where RAG or GPT tools will be central?",
+  "What learning resources or mentorship do you offer for engineers exploring newer LLM workflows?"
+]
