@@ -33,7 +33,7 @@ Experience with semantic search, GPT integration, and async dev workflows
 Initiative to streamline hiring processes using modern AI tools
 
 ## 👀 Live Preview  
-(https://github.com/Loretta991/Pre-Interview-FlashDeck)
+[(https://github.com/Loretta991/Pre-Interview-FlashDeck)](https://github.com/Loretta991/Pre-Interview-FlashDeck)
 
 ## 👀Return to Projects 
 [![Return to GitHub Projects](https://img.shields.io/badge/GitHub-Return_to_Projects-blue?logo=github)](https://github.com/Loretta991)
