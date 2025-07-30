@@ -36,9 +36,8 @@ Initiative to streamline hiring processes using modern AI tools
 
 [![Live Preview](https://img.shields.io/badge/Live%20Preview-click%20here-blue)](https://kjnlyp.csb.app)
 
-
 ## 👀Return to Projects 
 [![Return to GitHub Projects](https://img.shields.io/badge/GitHub-Return_to_Projects-blue?logo=github)](https://github.com/Loretta991)
 
 ## 👀Return to LinkedIn
-[![Return to LinkedIn Profile](https://www.linkedin.com/in/elle-grey-8a9307299/)
+[![LinkedIn](https://img.shields.io/badge/Return%20to%20LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/elle-grey-8a9307299/)
