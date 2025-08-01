@@ -40,9 +40,7 @@ You’ll immediately see a smart, structured Q&A deck based on your inputs — n
 - Employer-centered question routing  
 
 ---
-## 🔧 Open Live LLM Preview 
 
-[![Live Preview](https://img.shields.io/badge/Live%20Preview-click%20here-blue)](https://kjnlyp.csb.app)---
 
 
 
