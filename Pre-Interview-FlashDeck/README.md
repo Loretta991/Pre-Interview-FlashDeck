@@ -16,9 +16,8 @@ This interactive app helps candidates like Elle prepare for technical interviews
 ---
 
 ## 👀 Live Preview  
-Coming soon: GitHub Pages / CodeSandbox Link
 
----
+[![Live Preview](https://img.shields.io/badge/Live%20Preview-click%20here-blue)](https://kjnlyp.csb.app)---
 
 ## 🧪 Try It as a Hiring Manager  
 
