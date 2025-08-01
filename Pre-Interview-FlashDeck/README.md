@@ -15,10 +15,6 @@ This interactive app helps candidates like Elle prepare for technical interviews
 
 ---
 
-## 👀 Live Preview  
-
-[![Live Preview](https://img.shields.io/badge/Live%20Preview-click%20here-blue)](https://kjnlyp.csb.app)---
-
 ## 🧪 Try It as a Hiring Manager  
 
 - Enter your **Company Name** and **Job Title**
@@ -43,6 +39,9 @@ You’ll immediately see a smart, structured Q&A deck based on your inputs — n
 - GPT-inspired logic for job-specific prep  
 - Employer-centered question routing  
 
+---## 👀 Live Preview  
+
+[![Live Preview](https://img.shields.io/badge/Live%20Preview-click%20here-blue)](https://kjnlyp.csb.app)---
 
 
 
