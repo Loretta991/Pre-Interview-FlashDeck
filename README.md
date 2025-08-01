@@ -1,6 +1,7 @@
-# Pre-Interview-FlashDeck
-🧠 Pre-Interview FlashDeck An AI-powered interview showcase tool designed to help hiring teams preview, evaluate, and engage with candidates more effectively — before the first call.
- 
+# 🎯 Pre-Interview FlashDeck  
+**AI-Driven Interview Showcase + Live Employer Input**
+
+This interactive app helps candidates like Elle prepare for technical interviews using real job requirements. Employers can submit custom questions and key expectations — and preview tailored responses before the interview.
 
 🔹 Built by: Elle (Loretta) Gray (AI/ML Developer & Prompt Engineer)
 🔹 Tech Stack: React · GPT Prompt Design · RAG Workflows · JSON-based Q&A
@@ -32,13 +33,6 @@ Experience with semantic search, GPT integration, and async dev workflows
 
 Initiative to streamline hiring processes using modern AI tools
 
--------------
-
-# 🎯 Pre-Interview FlashDeck  
-**AI-Driven Interview Showcase + Live Employer Input**
-
-This interactive app helps candidates like Elle prepare for technical interviews using real job requirements. Employers can submit custom questions and key expectations — and preview tailored responses before the interview.
-
 ---
 
 ## 🧪 Try It as a Hiring Manager  
@@ -67,7 +61,7 @@ You’ll immediately see a smart, structured Q&A deck based on your inputs — n
 
 ---
 
-## 👀 Live Preview  
+## 👀 Live Flashback Preview  
 
 [![Live Preview](https://img.shields.io/badge/Live%20Preview-click%20here-blue)](https://kjnlyp.csb.app)
 
