@@ -35,9 +35,6 @@ You’ll immediately see a smart, structured Q&A deck based on your inputs — n
 - GPT-inspired logic for job-specific prep  
 - Employer-centered question routing  
 
-## 🔍 LLM Fallback QA Notebook
 
-This notebook demonstrates how fallback responses are analyzed and retrained in a prompt-based QA system using real example prompts from my FlashDeck app.
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Loretta991/Pre-Interview-FlashDeck/blob/main/notebooks/LLM_Fallback_QA_Example.ipynb)
 
