@@ -39,7 +39,8 @@ You’ll immediately see a smart, structured Q&A deck based on your inputs — n
 - GPT-inspired logic for job-specific prep  
 - Employer-centered question routing  
 
----## 👀 Live Preview  
+---
+## 🔧 Open Live LLM Preview  w  
 
 [![Live Preview](https://img.shields.io/badge/Live%20Preview-click%20here-blue)](https://kjnlyp.csb.app)---
 
