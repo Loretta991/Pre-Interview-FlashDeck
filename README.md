@@ -66,11 +66,8 @@ You’ll immediately see a smart, structured Q&A deck based on your inputs — n
 [![Live Preview](https://img.shields.io/badge/Live%20Preview-click%20here-blue)](https://kjnlyp.csb.app)
 
 ---
-## 👀 Live LLM Fallback Preview
-
-- 🧪 **LLM Fallback QA Notebook** – Explore my QA logic and prompt validation process in this hands-on Colab notebook:  
- [![👀 Run Notebook in Colab]([https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Loretta991/Pre-Interview-FlashDeck/blob/main/notebooks/LLM_Fallback_QA_Example.ipynb)
-]
+- 🧪 Open in Colab:  
+  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Loretta991/Pre-Interview-FlashDeck/blob/main/notebooks/LLM_Fallback_QA_Example.ipynb)
 ## 👀 Return to Projects  
 [![Return to GitHub Projects](https://img.shields.io/badge/GitHub-Return_to_Projects-blue?logo=github)](https://github.com/Loretta991)
 
